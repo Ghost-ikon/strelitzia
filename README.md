@@ -1,0 +1,2 @@
+# strelitzia
+Discord multipurpose bot
