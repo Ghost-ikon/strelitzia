@@ -24,7 +24,7 @@ Discord multipurpose bot having commands from fun to moderation!
 - Strelitzia is a bot based around anime made solely by ~ Dark Fang ~#7631
 - The Bot is in Development.
 
-# FEATURES TO COME
+# Features To Come
 - Ticket System,
 - Music System,
 - More Game Commands!
