@@ -3,7 +3,9 @@
 
 
 # Strelitzia
-Discord multipurpose bot having commands from fun to moderation!!
+Discord multipurpose bot having commands from fun to moderation!
+
+
 # Command Categories
 - [x] Fun
 - [x] Social
